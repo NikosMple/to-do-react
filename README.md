@@ -2,6 +2,8 @@
 
 A simple and stylish To-Do List application built with React. This app allows users to manage their tasks efficiently by adding, crossing out, and organizing their daily to-dos.
 
+## Live preview: https://nikosmple.github.io/to-do-react/
+
 ## Features
 
 - Add new tasks to the to-do list.
